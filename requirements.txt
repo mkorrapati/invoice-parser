@@ -1,0 +1,2 @@
+pandas
+git+https://github.com/invoice-x/invoice2data.git
